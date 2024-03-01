@@ -1,0 +1,22 @@
+{
+  "name": "new_mob",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MamaKbubu/New_Mob.git"
+  },
+  "keywords": [
+    "New_Mob"
+  ],
+  "author": "Tshegofatso Maboela",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MamaKbubu/New_Mob/issues"
+  },
+  "homepage": "https://github.com/MamaKbubu/New_Mob#readme"
+}
